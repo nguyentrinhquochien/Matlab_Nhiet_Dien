@@ -1,0 +1,12 @@
+**********************************************************************
+PROJECT NAME: C:\Users\Public\Documents\Siemens\WinCCProjects\mophong\mophong.MCP
+
+MIGRATION OBJECTS: 
+pictures and libraries
+
+START TIME:    2024-04-10 19:50:53
+
+Picture Migration succeeded. 
+FINISH TIME:   2024-04-10 19:51:00
+
+**********************************************************************
